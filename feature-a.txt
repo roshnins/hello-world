@@ -1,1 +1,2 @@
-This is the wonderfull implementation of feature A!
+This is the wonderfull implementation of feature A! 
+Hello feature A!
